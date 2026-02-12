@@ -3,7 +3,7 @@
 [![MSP430](https://img.shields.io/badge/MSP430-FR6989-red.svg)](https://www.ti.com/product/MSP430FR6989)
 [![Code Composer Studio](https://img.shields.io/badge/IDE-Code%20Composer%20Studio-blue.svg)](https://www.ti.com/tool/CCSTUDIO)
 
-Repositorio de prácticas de la asignatura **Estructuras de Computadores** del 2º cuatrimestre de 3º curso del Doble Grado en Ingeniería Informática y Matemáticas.
+Repositorio de prácticas de la asignatura **Estructuras de Computadores** del 2º cuatrimestre de 3º curso del Doble Grado en Ingeniería Informática y Matemáticas UCM.
 
 ## 📋 Descripción
 
