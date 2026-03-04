@@ -1,0 +1,25 @@
+{
+  "folders": [
+    {
+      "path": "file:///c%3A/Users/diego/workspace_ccstheia/Practica%203.2"
+    },
+    {
+      "path": "file:///c%3A/Users/diego/workspace_ccstheia"
+    }
+  ],
+  "settings": {},
+  "launch": {
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "name": "Practica 3.2",
+        "type": "ccs-debug",
+        "request": "launch",
+        "projectInfo": {
+          "name": "Practica 3.2",
+          "resourceId": "/Practica 3.2/main.c"
+        }
+      }
+    ]
+  }
+}

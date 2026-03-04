@@ -1,0 +1,147 @@
+[
+   {
+      "directory" : "U:/hlocal/Practica 3_CASA/Practica 3.4/Debug",
+      "command"   : "clang++ -I\"S:/software/electronica/ccstudio-20.2.0/ccs/ccs_base/msp430/include\" -I\"U:/hlocal/Practica 3_CASA/Practica 3.4\" -I\"U:/hlocal/Practica 3_CASA/Practica 3.4/driverlib/MSP430FR5xx_6xx\" -I\"S:/software/electronica/ccstudio-20.2.0/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430FR6989__ -D_MPU_ENABLE -xc",
+      "file"      : "U:/hlocal/Practica 3_CASA/Practica 3.4/driverlib/MSP430FR5xx_6xx/adc12_b.c"
+   },
+   {
+      "directory" : "U:/hlocal/Practica 3_CASA/Practica 3.4/Debug",
+      "command"   : "clang++ -I\"S:/software/electronica/ccstudio-20.2.0/ccs/ccs_base/msp430/include\" -I\"U:/hlocal/Practica 3_CASA/Practica 3.4\" -I\"U:/hlocal/Practica 3_CASA/Practica 3.4/driverlib/MSP430FR5xx_6xx\" -I\"S:/software/electronica/ccstudio-20.2.0/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430FR6989__ -D_MPU_ENABLE -xc",
+      "file"      : "U:/hlocal/Practica 3_CASA/Practica 3.4/driverlib/MSP430FR5xx_6xx/aes256.c"
+   },
+   {
+      "directory" : "U:/hlocal/Practica 3_CASA/Practica 3.4/Debug",
+      "command"   : "clang++ -I\"S:/software/electronica/ccstudio-20.2.0/ccs/ccs_base/msp430/include\" -I\"U:/hlocal/Practica 3_CASA/Practica 3.4\" -I\"U:/hlocal/Practica 3_CASA/Practica 3.4/driverlib/MSP430FR5xx_6xx\" -I\"S:/software/electronica/ccstudio-20.2.0/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430FR6989__ -D_MPU_ENABLE -xc",
+      "file"      : "U:/hlocal/Practica 3_CASA/Practica 3.4/driverlib/MSP430FR5xx_6xx/comp_e.c"
+   },
+   {
+      "directory" : "U:/hlocal/Practica 3_CASA/Practica 3.4/Debug",
+      "command"   : "clang++ -I\"S:/software/electronica/ccstudio-20.2.0/ccs/ccs_base/msp430/include\" -I\"U:/hlocal/Practica 3_CASA/Practica 3.4\" -I\"U:/hlocal/Practica 3_CASA/Practica 3.4/driverlib/MSP430FR5xx_6xx\" -I\"S:/software/electronica/ccstudio-20.2.0/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430FR6989__ -D_MPU_ENABLE -xc",
+      "file"      : "U:/hlocal/Practica 3_CASA/Practica 3.4/driverlib/MSP430FR5xx_6xx/crc.c"
+   },
+   {
+      "directory" : "U:/hlocal/Practica 3_CASA/Practica 3.4/Debug",
+      "command"   : "clang++ -I\"S:/software/electronica/ccstudio-20.2.0/ccs/ccs_base/msp430/include\" -I\"U:/hlocal/Practica 3_CASA/Practica 3.4\" -I\"U:/hlocal/Practica 3_CASA/Practica 3.4/driverlib/MSP430FR5xx_6xx\" -I\"S:/software/electronica/ccstudio-20.2.0/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430FR6989__ -D_MPU_ENABLE -xc",
+      "file"      : "U:/hlocal/Practica 3_CASA/Practica 3.4/driverlib/MSP430FR5xx_6xx/crc32.c"
+   },
+   {
+      "directory" : "U:/hlocal/Practica 3_CASA/Practica 3.4/Debug",
+      "command"   : "clang++ -I\"S:/software/electronica/ccstudio-20.2.0/ccs/ccs_base/msp430/include\" -I\"U:/hlocal/Practica 3_CASA/Practica 3.4\" -I\"U:/hlocal/Practica 3_CASA/Practica 3.4/driverlib/MSP430FR5xx_6xx\" -I\"S:/software/electronica/ccstudio-20.2.0/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430FR6989__ -D_MPU_ENABLE -xc",
+      "file"      : "U:/hlocal/Practica 3_CASA/Practica 3.4/driverlib/MSP430FR5xx_6xx/cs.c"
+   },
+   {
+      "directory" : "U:/hlocal/Practica 3_CASA/Practica 3.4/Debug",
+      "command"   : "clang++ -I\"S:/software/electronica/ccstudio-20.2.0/ccs/ccs_base/msp430/include\" -I\"U:/hlocal/Practica 3_CASA/Practica 3.4\" -I\"U:/hlocal/Practica 3_CASA/Practica 3.4/driverlib/MSP430FR5xx_6xx\" -I\"S:/software/electronica/ccstudio-20.2.0/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430FR6989__ -D_MPU_ENABLE -xc",
+      "file"      : "U:/hlocal/Practica 3_CASA/Practica 3.4/driverlib/MSP430FR5xx_6xx/dma.c"
+   },
+   {
+      "directory" : "U:/hlocal/Practica 3_CASA/Practica 3.4/Debug",
+      "command"   : "clang++ -I\"S:/software/electronica/ccstudio-20.2.0/ccs/ccs_base/msp430/include\" -I\"U:/hlocal/Practica 3_CASA/Practica 3.4\" -I\"U:/hlocal/Practica 3_CASA/Practica 3.4/driverlib/MSP430FR5xx_6xx\" -I\"S:/software/electronica/ccstudio-20.2.0/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430FR6989__ -D_MPU_ENABLE -xc",
+      "file"      : "U:/hlocal/Practica 3_CASA/Practica 3.4/driverlib/MSP430FR5xx_6xx/esi.c"
+   },
+   {
+      "directory" : "U:/hlocal/Practica 3_CASA/Practica 3.4/Debug",
+      "command"   : "clang++ -I\"S:/software/electronica/ccstudio-20.2.0/ccs/ccs_base/msp430/include\" -I\"U:/hlocal/Practica 3_CASA/Practica 3.4\" -I\"U:/hlocal/Practica 3_CASA/Practica 3.4/driverlib/MSP430FR5xx_6xx\" -I\"S:/software/electronica/ccstudio-20.2.0/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430FR6989__ -D_MPU_ENABLE -xc",
+      "file"      : "U:/hlocal/Practica 3_CASA/Practica 3.4/driverlib/MSP430FR5xx_6xx/eusci_a_spi.c"
+   },
+   {
+      "directory" : "U:/hlocal/Practica 3_CASA/Practica 3.4/Debug",
+      "command"   : "clang++ -I\"S:/software/electronica/ccstudio-20.2.0/ccs/ccs_base/msp430/include\" -I\"U:/hlocal/Practica 3_CASA/Practica 3.4\" -I\"U:/hlocal/Practica 3_CASA/Practica 3.4/driverlib/MSP430FR5xx_6xx\" -I\"S:/software/electronica/ccstudio-20.2.0/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430FR6989__ -D_MPU_ENABLE -xc",
+      "file"      : "U:/hlocal/Practica 3_CASA/Practica 3.4/driverlib/MSP430FR5xx_6xx/eusci_a_uart.c"
+   },
+   {
+      "directory" : "U:/hlocal/Practica 3_CASA/Practica 3.4/Debug",
+      "command"   : "clang++ -I\"S:/software/electronica/ccstudio-20.2.0/ccs/ccs_base/msp430/include\" -I\"U:/hlocal/Practica 3_CASA/Practica 3.4\" -I\"U:/hlocal/Practica 3_CASA/Practica 3.4/driverlib/MSP430FR5xx_6xx\" -I\"S:/software/electronica/ccstudio-20.2.0/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430FR6989__ -D_MPU_ENABLE -xc",
+      "file"      : "U:/hlocal/Practica 3_CASA/Practica 3.4/driverlib/MSP430FR5xx_6xx/eusci_b_i2c.c"
+   },
+   {
+      "directory" : "U:/hlocal/Practica 3_CASA/Practica 3.4/Debug",
+      "command"   : "clang++ -I\"S:/software/electronica/ccstudio-20.2.0/ccs/ccs_base/msp430/include\" -I\"U:/hlocal/Practica 3_CASA/Practica 3.4\" -I\"U:/hlocal/Practica 3_CASA/Practica 3.4/driverlib/MSP430FR5xx_6xx\" -I\"S:/software/electronica/ccstudio-20.2.0/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430FR6989__ -D_MPU_ENABLE -xc",
+      "file"      : "U:/hlocal/Practica 3_CASA/Practica 3.4/driverlib/MSP430FR5xx_6xx/eusci_b_spi.c"
+   },
+   {
+      "directory" : "U:/hlocal/Practica 3_CASA/Practica 3.4/Debug",
+      "command"   : "clang++ -I\"S:/software/electronica/ccstudio-20.2.0/ccs/ccs_base/msp430/include\" -I\"U:/hlocal/Practica 3_CASA/Practica 3.4\" -I\"U:/hlocal/Practica 3_CASA/Practica 3.4/driverlib/MSP430FR5xx_6xx\" -I\"S:/software/electronica/ccstudio-20.2.0/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430FR6989__ -D_MPU_ENABLE -xc",
+      "file"      : "U:/hlocal/Practica 3_CASA/Practica 3.4/driverlib/MSP430FR5xx_6xx/framctl.c"
+   },
+   {
+      "directory" : "U:/hlocal/Practica 3_CASA/Practica 3.4/Debug",
+      "command"   : "clang++ -I\"S:/software/electronica/ccstudio-20.2.0/ccs/ccs_base/msp430/include\" -I\"U:/hlocal/Practica 3_CASA/Practica 3.4\" -I\"U:/hlocal/Practica 3_CASA/Practica 3.4/driverlib/MSP430FR5xx_6xx\" -I\"S:/software/electronica/ccstudio-20.2.0/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430FR6989__ -D_MPU_ENABLE -xc",
+      "file"      : "U:/hlocal/Practica 3_CASA/Practica 3.4/driverlib/MSP430FR5xx_6xx/gpio.c"
+   },
+   {
+      "directory" : "U:/hlocal/Practica 3_CASA/Practica 3.4/Debug",
+      "command"   : "clang++ -I\"S:/software/electronica/ccstudio-20.2.0/ccs/ccs_base/msp430/include\" -I\"U:/hlocal/Practica 3_CASA/Practica 3.4\" -I\"U:/hlocal/Practica 3_CASA/Practica 3.4/driverlib/MSP430FR5xx_6xx\" -I\"S:/software/electronica/ccstudio-20.2.0/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430FR6989__ -D_MPU_ENABLE -xc",
+      "file"      : "U:/hlocal/Practica 3_CASA/Practica 3.4/driverlib/MSP430FR5xx_6xx/lcd_c.c"
+   },
+   {
+      "directory" : "U:/hlocal/Practica 3_CASA/Practica 3.4/Debug",
+      "command"   : "clang++ -I\"S:/software/electronica/ccstudio-20.2.0/ccs/ccs_base/msp430/include\" -I\"U:/hlocal/Practica 3_CASA/Practica 3.4\" -I\"U:/hlocal/Practica 3_CASA/Practica 3.4/driverlib/MSP430FR5xx_6xx\" -I\"S:/software/electronica/ccstudio-20.2.0/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430FR6989__ -D_MPU_ENABLE -xc",
+      "file"      : "U:/hlocal/Practica 3_CASA/Practica 3.4/driverlib/MSP430FR5xx_6xx/mpu.c"
+   },
+   {
+      "directory" : "U:/hlocal/Practica 3_CASA/Practica 3.4/Debug",
+      "command"   : "clang++ -I\"S:/software/electronica/ccstudio-20.2.0/ccs/ccs_base/msp430/include\" -I\"U:/hlocal/Practica 3_CASA/Practica 3.4\" -I\"U:/hlocal/Practica 3_CASA/Practica 3.4/driverlib/MSP430FR5xx_6xx\" -I\"S:/software/electronica/ccstudio-20.2.0/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430FR6989__ -D_MPU_ENABLE -xc",
+      "file"      : "U:/hlocal/Practica 3_CASA/Practica 3.4/driverlib/MSP430FR5xx_6xx/mpy32.c"
+   },
+   {
+      "directory" : "U:/hlocal/Practica 3_CASA/Practica 3.4/Debug",
+      "command"   : "clang++ -I\"S:/software/electronica/ccstudio-20.2.0/ccs/ccs_base/msp430/include\" -I\"U:/hlocal/Practica 3_CASA/Practica 3.4\" -I\"U:/hlocal/Practica 3_CASA/Practica 3.4/driverlib/MSP430FR5xx_6xx\" -I\"S:/software/electronica/ccstudio-20.2.0/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430FR6989__ -D_MPU_ENABLE -xc",
+      "file"      : "U:/hlocal/Practica 3_CASA/Practica 3.4/driverlib/MSP430FR5xx_6xx/pmm.c"
+   },
+   {
+      "directory" : "U:/hlocal/Practica 3_CASA/Practica 3.4/Debug",
+      "command"   : "clang++ -I\"S:/software/electronica/ccstudio-20.2.0/ccs/ccs_base/msp430/include\" -I\"U:/hlocal/Practica 3_CASA/Practica 3.4\" -I\"U:/hlocal/Practica 3_CASA/Practica 3.4/driverlib/MSP430FR5xx_6xx\" -I\"S:/software/electronica/ccstudio-20.2.0/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430FR6989__ -D_MPU_ENABLE -xc",
+      "file"      : "U:/hlocal/Practica 3_CASA/Practica 3.4/driverlib/MSP430FR5xx_6xx/ram.c"
+   },
+   {
+      "directory" : "U:/hlocal/Practica 3_CASA/Practica 3.4/Debug",
+      "command"   : "clang++ -I\"S:/software/electronica/ccstudio-20.2.0/ccs/ccs_base/msp430/include\" -I\"U:/hlocal/Practica 3_CASA/Practica 3.4\" -I\"U:/hlocal/Practica 3_CASA/Practica 3.4/driverlib/MSP430FR5xx_6xx\" -I\"S:/software/electronica/ccstudio-20.2.0/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430FR6989__ -D_MPU_ENABLE -xc",
+      "file"      : "U:/hlocal/Practica 3_CASA/Practica 3.4/driverlib/MSP430FR5xx_6xx/ref_a.c"
+   },
+   {
+      "directory" : "U:/hlocal/Practica 3_CASA/Practica 3.4/Debug",
+      "command"   : "clang++ -I\"S:/software/electronica/ccstudio-20.2.0/ccs/ccs_base/msp430/include\" -I\"U:/hlocal/Practica 3_CASA/Practica 3.4\" -I\"U:/hlocal/Practica 3_CASA/Practica 3.4/driverlib/MSP430FR5xx_6xx\" -I\"S:/software/electronica/ccstudio-20.2.0/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430FR6989__ -D_MPU_ENABLE -xc",
+      "file"      : "U:/hlocal/Practica 3_CASA/Practica 3.4/driverlib/MSP430FR5xx_6xx/rtc_b.c"
+   },
+   {
+      "directory" : "U:/hlocal/Practica 3_CASA/Practica 3.4/Debug",
+      "command"   : "clang++ -I\"S:/software/electronica/ccstudio-20.2.0/ccs/ccs_base/msp430/include\" -I\"U:/hlocal/Practica 3_CASA/Practica 3.4\" -I\"U:/hlocal/Practica 3_CASA/Practica 3.4/driverlib/MSP430FR5xx_6xx\" -I\"S:/software/electronica/ccstudio-20.2.0/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430FR6989__ -D_MPU_ENABLE -xc",
+      "file"      : "U:/hlocal/Practica 3_CASA/Practica 3.4/driverlib/MSP430FR5xx_6xx/rtc_c.c"
+   },
+   {
+      "directory" : "U:/hlocal/Practica 3_CASA/Practica 3.4/Debug",
+      "command"   : "clang++ -I\"S:/software/electronica/ccstudio-20.2.0/ccs/ccs_base/msp430/include\" -I\"U:/hlocal/Practica 3_CASA/Practica 3.4\" -I\"U:/hlocal/Practica 3_CASA/Practica 3.4/driverlib/MSP430FR5xx_6xx\" -I\"S:/software/electronica/ccstudio-20.2.0/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430FR6989__ -D_MPU_ENABLE -xc",
+      "file"      : "U:/hlocal/Practica 3_CASA/Practica 3.4/driverlib/MSP430FR5xx_6xx/sfr.c"
+   },
+   {
+      "directory" : "U:/hlocal/Practica 3_CASA/Practica 3.4/Debug",
+      "command"   : "clang++ -I\"S:/software/electronica/ccstudio-20.2.0/ccs/ccs_base/msp430/include\" -I\"U:/hlocal/Practica 3_CASA/Practica 3.4\" -I\"U:/hlocal/Practica 3_CASA/Practica 3.4/driverlib/MSP430FR5xx_6xx\" -I\"S:/software/electronica/ccstudio-20.2.0/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430FR6989__ -D_MPU_ENABLE -xc",
+      "file"      : "U:/hlocal/Practica 3_CASA/Practica 3.4/driverlib/MSP430FR5xx_6xx/sysctl.c"
+   },
+   {
+      "directory" : "U:/hlocal/Practica 3_CASA/Practica 3.4/Debug",
+      "command"   : "clang++ -I\"S:/software/electronica/ccstudio-20.2.0/ccs/ccs_base/msp430/include\" -I\"U:/hlocal/Practica 3_CASA/Practica 3.4\" -I\"U:/hlocal/Practica 3_CASA/Practica 3.4/driverlib/MSP430FR5xx_6xx\" -I\"S:/software/electronica/ccstudio-20.2.0/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430FR6989__ -D_MPU_ENABLE -xc",
+      "file"      : "U:/hlocal/Practica 3_CASA/Practica 3.4/driverlib/MSP430FR5xx_6xx/timer_a.c"
+   },
+   {
+      "directory" : "U:/hlocal/Practica 3_CASA/Practica 3.4/Debug",
+      "command"   : "clang++ -I\"S:/software/electronica/ccstudio-20.2.0/ccs/ccs_base/msp430/include\" -I\"U:/hlocal/Practica 3_CASA/Practica 3.4\" -I\"U:/hlocal/Practica 3_CASA/Practica 3.4/driverlib/MSP430FR5xx_6xx\" -I\"S:/software/electronica/ccstudio-20.2.0/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430FR6989__ -D_MPU_ENABLE -xc",
+      "file"      : "U:/hlocal/Practica 3_CASA/Practica 3.4/driverlib/MSP430FR5xx_6xx/timer_b.c"
+   },
+   {
+      "directory" : "U:/hlocal/Practica 3_CASA/Practica 3.4/Debug",
+      "command"   : "clang++ -I\"S:/software/electronica/ccstudio-20.2.0/ccs/ccs_base/msp430/include\" -I\"U:/hlocal/Practica 3_CASA/Practica 3.4\" -I\"U:/hlocal/Practica 3_CASA/Practica 3.4/driverlib/MSP430FR5xx_6xx\" -I\"S:/software/electronica/ccstudio-20.2.0/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430FR6989__ -D_MPU_ENABLE -xc",
+      "file"      : "U:/hlocal/Practica 3_CASA/Practica 3.4/driverlib/MSP430FR5xx_6xx/tlv.c"
+   },
+   {
+      "directory" : "U:/hlocal/Practica 3_CASA/Practica 3.4/Debug",
+      "command"   : "clang++ -I\"S:/software/electronica/ccstudio-20.2.0/ccs/ccs_base/msp430/include\" -I\"U:/hlocal/Practica 3_CASA/Practica 3.4\" -I\"U:/hlocal/Practica 3_CASA/Practica 3.4/driverlib/MSP430FR5xx_6xx\" -I\"S:/software/electronica/ccstudio-20.2.0/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430FR6989__ -D_MPU_ENABLE -xc",
+      "file"      : "U:/hlocal/Practica 3_CASA/Practica 3.4/driverlib/MSP430FR5xx_6xx/wdt_a.c"
+   },
+   {
+      "directory" : "U:/hlocal/Practica 3_CASA/Practica 3.4/Debug",
+      "command"   : "clang++ -I\"S:/software/electronica/ccstudio-20.2.0/ccs/ccs_base/msp430/include\" -I\"U:/hlocal/Practica 3_CASA/Practica 3.4\" -I\"U:/hlocal/Practica 3_CASA/Practica 3.4/driverlib/MSP430FR5xx_6xx\" -I\"S:/software/electronica/ccstudio-20.2.0/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430FR6989__ -D_MPU_ENABLE -xc",
+      "file"      : "U:/hlocal/Practica 3_CASA/Practica 3.4/main.c"
+   }
+]
