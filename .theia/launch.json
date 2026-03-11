@@ -54,6 +54,42 @@
                 "name": "Practica 3.3",
                 "resourceId": "/Practica 3.3/main.c"
             }
+        },
+        {
+            "name": "Practica 4.1",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "Practica 4.1",
+                "resourceId": "/Practica 4.1/main.c"
+            }
+        },
+        {
+            "name": "Practica 4.2",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "Practica 4.2",
+                "resourceId": "/Practica 4.2/main.c"
+            }
+        },
+        {
+            "name": "Practica 4.3",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "Practica 4.3",
+                "resourceId": "/Practica 4.3/main.c"
+            }
+        },
+        {
+            "name": "Practica 4.3.1",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "Practica 4.3.1",
+                "resourceId": "/Practica 4.3.1/main.c"
+            }
         }
     ]
 }
